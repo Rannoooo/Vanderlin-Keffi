@@ -105,7 +105,7 @@
 	..()
 	head = /obj/item/clothing/head/helmet/medium/decorated/skullmet
 	neck = /obj/item/clothing/neck/highcollier
-	shirt = /obj/item/clothing/armor/gambeson // rest of them get hauberks, can learn to make padded gambesons if you wnat more.
+	shirt = /obj/item/clothing/armor/gambeson // rest of them get hauberks, can learn to make padded gambesons if you want more.
 	beltl = /obj/item/weapon/knife/cleaver/combat
 	beltr = /obj/item/ammo_holder/quiver/arrows
 	armor = /obj/item/clothing/armor/leather/advanced/forrester
